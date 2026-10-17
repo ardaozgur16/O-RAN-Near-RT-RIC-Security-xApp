@@ -1,9 +1,12 @@
 # 6G-RIS-Security-Middleware: Latency-Aware Physical Layer Jamming Defense for O-RAN Near-RT RIC
 
-[![IEEE ComSoc](https://shields.io)](https://comsoc.org)
-[![O-RAN](https://shields.io)](https://o-ran.org)
-[![Python](https://shields.io)](https://python.org)
-[![PyTorch](https://shields.io)](https://pytorch.org)
+# oran-near-rt-ric-security-xapp
+
+![IEEE ComSoc](https://shields.io)
+![O-RAN](https://shields.io)
+![Python](https://shields.io)
+![PyTorch](https://shields.io)
+
 
 A high-performance, differentiable physical-layer security middleware engineered as an **O-RAN Near-RT RIC compliant xApp**. This framework autonomously detects adversarial active/reactive jamming attacks and dynamically reconfigures low-resolution (1-bit / 2-bit) Reconfigurable Intelligent Surfaces (RIS) in real time to steer spatial nulls toward the interferer while sustaining legitimate beamforming gains.
 

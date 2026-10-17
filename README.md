@@ -1,7 +1,5 @@
 # 6G-RIS-Security-Middleware: Latency-Aware Physical Layer Jamming Defense for O-RAN Near-RT RIC
 
-# oran-near-rt-ric-security-xapp
-
 ![IEEE ComSoc](https://shields.io)
 ![O-RAN](https://shields.io)
 ![Python](https://shields.io)
